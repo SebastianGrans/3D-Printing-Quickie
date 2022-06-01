@@ -76,7 +76,7 @@ If your print has parts which are sticking out, you might need to add support st
 Using support structures increase printing time, can reduce print surface quality, and might sometimes be difficult to remove. If possible, redesign the part not to contain overhangs. Or place the object on the build platform so that the overhang is supported.
 
 ### Brim 
-If your part is big, flat, and thin, it might be necessary to add a brim. A brim adds a skirt around the entire print which increases bed adheasion and prevents the part from warping. 
+If your part is big, flat, and thin, it might be necessary to add a brim. A brim adds a skirt around the entire print which increases bed adhesion and prevents the part from warping. 
 
 The brim can be removed once the print is finished. 
 
